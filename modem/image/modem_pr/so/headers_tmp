@@ -1,0 +1,11 @@
+HTTP/1.1 100 Continue
+
+HTTP/1.1 200 
+Server: nginx/1.15.7
+Date: Wed, 30 Mar 2022 08:16:10 GMT
+Content-Type: application/octet-stream
+Content-Length: 293928
+Connection: keep-alive
+Content-Disposition: attachment; filename="mcfg_sw.mbn.signed"
+Content-MD5: ca632e5cd80d6a9cc399be779e10facc
+
