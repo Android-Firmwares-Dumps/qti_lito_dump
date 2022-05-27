@@ -1,0 +1,23 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.5.6.1-00029-SAIPAN-1", 
+        "aop": "AOP.HO.2.0.4-00009-SAIPANAAAAANAZO-1", 
+        "boot": "BOOT.XF.3.3.1-00015-SAIPANLAZ-1", 
+        "btfm": "BTFM.CHE.3.2.1-00087-QCACHROMZ-1", 
+        "cdsp": "CDSP.VT.2.6.1-00016-SAIPAN-1", 
+        "common": "Saipan.LA.2.0-00037-STD.PROD-1", 
+        "glue": "GLUE.SAIPAN.LA.1.0-00278-NOOP_TEST-1", 
+        "modem": "MPSS.HI.1.0.c8.10-00002-SAIPAN_GEN_PACK-1", 
+        "npu": "NPU.FW.2.1-00057-SAIPAN_NPU_PACK-1", 
+        "tz": "TZ.XF.5.10.1-00047-SAIPANAAAAANAZT-1", 
+        "tz_apps": "TZ.APPS.2.0-00001-SAIPANAAAAANAZT-4", 
+        "video": "VIDEO.IR.1.2-00034-PROD-1", 
+        "wlan": "WLAN.HL.3.3.1-00214.1-QCAHLSWMTPLZ-2"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Saipan.LA.2.0-00037-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2022-05-02 13:40:29"
+    }, 
+    "Version": "1.0"
+}
